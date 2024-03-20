@@ -10,7 +10,7 @@ AESDCHAR_VERSION = '68bae9fd71310c5b31dcac74b8861b3fee8ae962'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-AESDCHAR_SITE = git@github.com:cu-ecen-aeld/assignment-3-and-later-thra6614.git
+AESDCHAR_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-thra6614.git
 AESDCHAR_SITE_METHOD = git
 AESDCHAR_GIT_SUBMODULES = YES
 AESDCHAR_MODULE_SUBDIRS = aesd-char-driver
